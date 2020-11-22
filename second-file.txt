@@ -3,3 +3,5 @@ this is my second file.
 new line added via branchA.
 
 another line added via branchC.
+
+line added in feature/newBranch.
