@@ -3,3 +3,5 @@ this is my second file.
 new line added via branchB.
 
 another line added via branchD.
+
+this line is added via branchF.
