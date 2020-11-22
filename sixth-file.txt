@@ -1,4 +1,4 @@
 hello from sixth file
 
 thi is 2nd one
-hello
+hello;
